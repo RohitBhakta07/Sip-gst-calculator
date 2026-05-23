@@ -23,7 +23,7 @@ This is my **first-ever project built with the help of AI (No-Code Prompt Tool)*
 
 ## ✨ Features
 
-- AI-generated frontend using just English prompts
+- AI-generated frontend using just English prompt
 - SIP Calculator: Estimate mutual fund growth
 - GST Calculator: Add/remove GST from prices
 - EMI Calculator: Plan monthly loan payments
